@@ -122,12 +122,11 @@ header.site-header {
     height: calc(100vh - 250px);
     max-height: calc(1080px - 250px);
     z-index: 2;
-    color: $white;
+    color: $red;
 
     .heading-content {
       width: 100%;
       text-transform: uppercase;
-      background-color: $red;
 
 
       .heading-title {

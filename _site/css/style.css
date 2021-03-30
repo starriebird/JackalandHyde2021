@@ -3229,13 +3229,12 @@ header.site-header .header-banner {
   max-height: -webkit-calc(1080px - 250px);
   max-height: calc(1080px - 250px);
   z-index: 2;
-  color: #fff;
+  color: #be130c;
 }
 
 header.site-header .header-banner .heading-content {
   width: 100%;
   text-transform: uppercase;
-  background-color: #be130c;
 }
 
 header.site-header .header-banner .heading-content .heading-title hr.small {

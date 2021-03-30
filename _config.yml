@@ -82,7 +82,7 @@ email: starriew@gmail.com
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
-banner-link: https://themeforest.net/collections/6069390-sera
+banner-link: https://jackalandhyde.bandcamp.com
 
 ####################################
 ######  Global Social Links   ######
@@ -293,12 +293,13 @@ core-features-right:
 - name: Spotify
   description: Stream Jackal and Hyde Music.
   icon: pe-7s-crop
-  url:
+  url: https://open.spotify.com/artist/4a3Z4srAHtEhr1aEdB1SAi
 
 # Feature
 - name: Beatport
   description: Purchase Jackal and Hyde music on Beatport.
   icon: pe-7s-camera
+  url:
 
 
 #####################################
@@ -439,7 +440,7 @@ team:
 ########## Pricing Tables ###########
 #####################################
 pricing-title: Patreon Memberships
-pricing-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+pricing-description: Help support Jackal and Hyde through Patreon. The Jackal and Hyde Patreon community gives fans, fellow producers and music students a place to connect with both each other and Scott Weiser.
 
 #
 # Plan Personal
