@@ -252,21 +252,25 @@ core-features-left:
 - name: Bandcamp
   description: Buy Jackal and Hyde Music.
   icon: pe-7s-light
+  url: https://jackalandhyde.bandcamp.com
 
 # Feature
 - name: Discogs
   description: View the discography.
   icon: pe-7s-drop
+  url: https://www.discogs.com/artist/35393-Scott-Weiser?filter_anv=0&type=Credits
 
 # Feature
 - name: Instagram
   description: Stay up to date on Instagram.
   icon: pe-7s-coffee
+  url: https://www.instagram.com/jackalandhydemusic/
 
 # Feature
 - name: Facebook
   description: Follow Jackal and Hyde on Facebook.
   icon: pe-7s-smile
+  url: https://www.facebook.com/jackalandhyde/?ref=br_rs
 
 #
 # Core Features Right
@@ -277,16 +281,19 @@ core-features-right:
 - name: Bands In Town
   description: Follow live performances.
   icon: pe-7s-wine
+  url: https://www.bandsintown.com/a/15379169-jackal-and-hyde
 
 # Feature
 - name: Mailing List
   description: Sign up for the Jackal and Hyde email list.
   icon: pe-7s-monitor
+  url: mailto:info@jackalandhydemusic.com
 
 # Feature
 - name: Spotify
   description: Stream Jackal and Hyde Music.
   icon: pe-7s-crop
+  url:
 
 # Feature
 - name: Beatport
@@ -351,14 +358,6 @@ testimonials:
   url-text: AudioJungle.net
   avatar: avatar-06.jpg
   cite: "The biggest f***ing bass you are ever going to experience."
-  logo-img: audiojungle.png
-
-# Client
-- name: John B
-  url: http://audiojungle.net
-  url-text: AudioJungle.net
-  avatar: avatar-07.jpg
-  cite: This new Jackal and Hyde wax gets my RobotroniK seal of approval!
   logo-img: audiojungle.png
 
 # Client
@@ -483,7 +482,7 @@ contact-description: Have a question about something or just want to say hello? 
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-footer-copyright-text: Gleesik&trade;
-footer-copyright-url: http://gleesik.ro/
-footer-copyright-year: 2016
+footer-description: Jackal and Hyde Music is brought to you by Jackal and Hyde and Equinox Multimedia
+footer-copyright-text: Equinox Multimedia
+footer-copyright-url: http://www.equinoxmultimedia.com
+footer-copyright-year: 2021
