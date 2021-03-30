@@ -4642,7 +4642,7 @@ section.team-section .team-members-container {
 }
 
 section.team-section .team-members-container .team-member {
-  background: #fff;
+  background: #be130c;
   margin-bottom: 30px;
   -webkit-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
@@ -4790,7 +4790,7 @@ section.prices-section .pricing-tables-container .pricing-table {
   position: relative;
   border: 1px solid #bdc3c7;
   text-align: center;
-  background: #fff;
+  background: #be130c;
   -webkit-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
   transition: all 300ms ease-in-out;
