@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "How to tell a story"
+title: "Patreon"
 tagline: Single Page
-date: 2016-05-26 13:23
+date: 2021-05-29 13:23
 categories: [Storyline]
-tags: [Storyline, How To, Tips]
+tags: [Music, Education, Tips, Community]
 image: img-03.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum condimentum justo, rhoncus ullamcorper orci dapibus eget. Aliquam id efficitur lacus. Donec ac mattis ante. Nam vehicula turpis augue. Aliquam erat volutpat.
+We have great news for Jackal and Hyde fans and electronic music production students. Scott Weiser (AKA Jackal and Hyde) is now on Patreon!
 
 Aliquam fermentum ornare iaculis. Proin vehicula nisi sed vestibulum consectetur. Praesent placerat enim eu justo euismod, vel consequat ligula mollis. Quisque mollis, lacus sed imperdiet finibus, risus felis tempor sapien, in suscipit sem nulla bibendum magna. Curabitur venenatis condimentum ipsum, at hendrerit dui dictum quis. In sodales in ligula eget venenatis. Suspendisse imperdiet congue odio at tempus. Donec pellentesque cursus semper. Praesent vel augue sem. Integer nec diam consequat, sollicitudin urna eu, placerat justo. Donec in odio et tellus lobortis vehicula at pellentesque nisi.
 

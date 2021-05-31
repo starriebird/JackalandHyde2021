@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Flat polygon secrets"
+title: "Bandcamp Fridays"
 tagline: Single Page
-date: 2016-05-15 10:43
+date: 2021-05-29 10:43
 categories: [Graphic Design]
 tags: [Flat, Graphic, Design, Tips, Polygon]
 image: img-02.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum condimentum justo, <em>rhoncus ullamcorper</em> orci dapibus eget. Aliquam id efficitur lacus. Donec ac mattis ante. Nam vehicula turpis augue. Aliquam erat volutpat.
+Jackal and Hyde offers a 20% discount off of all sales every 'Bandcamp Friday'
 
 Aliquam fermentum ornare iaculis. Proin vehicula nisi sed <strong>vestibulum consectetur</strong>. Praesent placerat enim eu justo euismod, vel consequat ligula mollis. Quisque mollis, lacus sed imperdiet finibus, risus felis tempor sapien, in suscipit sem nulla bibendum magna. Curabitur venenatis condimentum ipsum, at hendrerit dui dictum quis. In sodales in ligula eget venenatis. Suspendisse imperdiet congue odio at tempus. Donec pellentesque cursus semper. Praesent vel augue sem. Integer nec diam consequat, sollicitudin urna eu, placerat justo. Donec in odio et tellus lobortis vehicula at pellentesque nisi.
 

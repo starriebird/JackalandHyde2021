@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "12 Cool tips in design"
+title:  "Jackal and Hyde Email List"
 tagline: Single Page
-date: 2016-05-02 15:32
+date: 2021-05-29 15:32
 categories: [Web Design]
 tags: [Web, Design, Tips & Tricks, Tips]
 image: img-01.jpg

@@ -3149,6 +3149,7 @@ header.site-header.blog-header .container {
 header.site-header.blog-header .header-banner {
   height: -webkit-calc(600px - 250px);
   height: calc(600px - 250px);
+  color: #be130c;
 }
 
 header.site-header .parallax-wrapper {

@@ -82,7 +82,7 @@ email: starriew@gmail.com
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
-banner-link: https://jackalandhyde.bandcamp.com
+banner-link: https://www.patreon.com/jackalandhyde
 
 ####################################
 ######  Global Social Links   ######
@@ -102,8 +102,8 @@ vimeo: '#'
 # About Blog Author Widget
 #
 about-widget:
-  author-avatar: avatar-02.jpg
-  author-name: Scott Weiser
+  author-avatar: avatar-09.jpg
+  author-name: Jackal and Hyde
   author-tagline: Blog Author
   author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
   author-social-links:
@@ -179,63 +179,74 @@ portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex
 #
 # Portfolio Grid
 #
-portfolio-categories: [Electro, Electro-core, Hardcore, Breaks, Synthwave]
+portfolio-categories: [Jackal and Hyde, Evan Gamble Lewis, Omar Santana, Code Rising, Otto Von Schirach, Carl Finlow, Genitorturers]
 portfolio:
 
 # Portfolio Item
 - title: <span class="thin">COGITO ERGO SUM</span>
-  categories: [Electro]
+  categories: [Jackal and Hyde]
   image: img-01.png
   url: 'https://jackalandhyde.bandcamp.com/track/cogito-ergo-sum'
 
 # Portfolio Item
-- title: <span class="thin">Carl Finlow - Anomoly</span> (Jackal and Hyde Remix)
-  categories: [Electro]
-  image: img-02.png
-  url: '#'
-
-# Portfolio Item
-- title: <span class="thin">See Europa</span> Style
-  categories: [Graphic Design, Logo, Photography]
-  image: img-03.jpg
-  url: '#'
+- title: <span class="thin">Sound of Underground</span> (Remaster)
+  categories: [Jackal and Hyde]
+  image: img-07.jpg
+  url: 'https://jackalandhyde.bandcamp.com/track/sound-of-underground-remaster'
 
 # Portfolio Item
 - title: <span class="thin">Anywhere in the Galaxy</span>
-  categories: [Websites, Video, Photography]
+  categories: [Jackal and Hyde, Omar Santana, Code Rising, Genitorturers]
   image: img-04.jpg
-  url: '#'
+  url: 'https://jackalandhyde.bandcamp.com/album/anywhere-in-the-galaxy-e-p-omar-santana-code-rising-genitorturers'
 
 # Portfolio Item
 - title: <span class="thin">Electromagnetic E.P.</span>
-  categories: [Development, Logo]
+  categories: [Jackal and Hyde]
   image: img-05.jpg
-  url: '#'
+  url: 'https://jackalandhyde.bandcamp.com/album/electromagnetic-e-p'
 
 # Portfolio Item
 - title: <span class="thin">Super Meng</span>
-  categories: [Development, Video]
+  categories: [Jackal and Hyde, Otto Von Schirach]
   image: img-06.jpg
-  url: '#'
+  url: 'https://jackalandhyde.bandcamp.com/track/supermeng-3'
 
 # Portfolio Item
-- title: <span class="thin">Sound of Underground</span> (Remaster)
-  categories: [Websites, Graphic Design]
-  image: img-07.jpg
-  url: '#'
+- title: <span class="thin">Carl Finlow - Anomoly</span> (Jackal and Hyde Remix)
+  categories: [Jackal and Hyde, Carl Finlow]
+  image: img-02.png
+  url: 'https://jackalandhyde.bandcamp.com/track/anomaly'
 
 # Portfolio Item
-- title: S<span class="thin">You're Like A Drug</span>
-  categories: [Websites , Video]
-  image: img-08.jpg
-  url: '#'
+- title: See Europa
+  categories: [Jackal and Hyde]
+  image: img-03.jpg
+  url: 'https://jackalandhyde.bandcamp.com/track/see-europa'
 
 # Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Photography, Logo]
+- title: You're Like a Drug E.P. (Jackal and Hyde vs. Evan Gamble Lewis )
+  categories: [Jackal and Hyde, Evan Gamble Lewis]
   image: img-09.jpg
-  url: '#'
+  url: 'https://jackalandhyde.bandcamp.com/album/youre-like-a-drug-ep'
 
+# Portfolio Item
+- title: Candy Painted
+  categories: [Jackal and Hyde]
+  image: img-10.jpg
+  url: 'https://jackalandhyde.bandcamp.com/album/candy-painted'
+
+# Portfolio Item
+- title: Beyond (Evan Gamble Lewis Remix)
+  categories: [Jackal and Hyde , Evan Gamble Lewis]
+  image: img-11.jpg
+  url: 'https://jackalandhyde.bandcamp.com/track/beyond-evan-gamble-lewis-remix'
+
+# Portfolio Item
+- title: Bad Robot
+  categories: [Jackal and Hyde]
+  image: img-08.jpg
+  url: 'https://jackalandhyde.bandcamp.com/album/bad-robot'
 
 #####################################
 ##########  Core Features  ##########
