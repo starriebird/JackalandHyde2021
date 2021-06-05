@@ -409,38 +409,50 @@ team:
 # Team Member
 - name: Drone
   tagline: Artist
-  avatar: avatar-01.jpg
+  avatar: drone.jpg
 
   # Social Links
   youtube: '#'
   pinterest: '#'
-  facebook: '#'
+  facebook: 'https://www.facebook.com/dronefury'
   twitter: '#'
-  google-plus: '#'
   vimeo: '#'
 
 # Team Member
 - name: Goldbaby
   tagline: Audio Mastermind
-  avatar: avatar-02.jpg
+  avatar: goldbaby.jpg
 
   # Social Links
   youtube: '#'
   pinterest: '#'
-  facebook: '#'
+  facebook: 'https://www.facebook.com/goldbabysamples'
   twitter: '#'
   google-plus: '#'
   vimeo: '#'
 
 # Team Member
 - name: Shady Teez
-  tagline: Hacker
-  avatar: avatar-04.jpg
+  tagline: Fashionista
+  avatar: shadyteez.jpg
 
   # Social Links
   youtube: '#'
   pinterest: '#'
-  facebook: '#'
+  facebook: 'https://www.facebook.com/SHADYTEEZ'
+  twitter: '#'
+  google-plus: '#'
+  vimeo: '#'
+
+# Team Member
+- name: Kazrog
+  tagline: Fashionista
+  avatar: kazrog.jpg
+
+# Social Links
+  youtube: '#'
+  pinterest: '#'
+  facebook: 'https://www.facebook.com/kazrogplugins'
   twitter: '#'
   google-plus: '#'
   vimeo: '#'
