@@ -57,7 +57,7 @@ lang: en-US
 # Header Title
 header-title: <strong>Cogito Ergo Sum</strong>
 # Header Tagline
-headter-tagline: New Single
+header-tagline: New Single
 
 ####################################
 ######   CTA Header Buttons   ######
@@ -262,25 +262,25 @@ core-features-left:
 # Feature
 - name: Bandcamp
   description: Buy Jackal and Hyde Music.
-  icon: pe-7s-light
+  icon: fab fa-bandcamp
   url: https://jackalandhyde.bandcamp.com
 
 # Feature
 - name: Discogs
   description: View the discography.
-  icon: pe-7s-drop
+  icon: fi flaticon-discogs
   url: https://www.discogs.com/artist/35393-Scott-Weiser?filter_anv=0&type=Credits
 
 # Feature
 - name: Instagram
   description: Stay up to date on Instagram.
-  icon: pe-7s-coffee
+  icon: fi flaticon-instagram
   url: https://www.instagram.com/jackalandhydemusic/
 
 # Feature
 - name: Facebook
   description: Follow Jackal and Hyde on Facebook.
-  icon: pe-7s-smile
+  icon: fi flaticon-facebook
   url: https://www.facebook.com/jackalandhyde/?ref=br_rs
 
 #
@@ -291,7 +291,7 @@ core-features-right:
 # Feature
 - name: Bands In Town
   description: Follow live performances.
-  icon: pe-7s-wine
+  icon: fi flaticon-linkedin
   url: https://www.bandsintown.com/a/15379169-jackal-and-hyde
 
 # Feature
@@ -303,7 +303,7 @@ core-features-right:
 # Feature
 - name: Spotify
   description: Stream Jackal and Hyde Music.
-  icon: pe-7s-crop
+  icon: fi flaticon-spotify
   url: https://open.spotify.com/artist/4a3Z4srAHtEhr1aEdB1SAi
 
 # Feature
@@ -446,14 +446,14 @@ team:
 
 # Team Member
 - name: Kazrog
-  tagline: Fashionista
+  tagline: Audio Plug-ins
   avatar: kazrog.jpg
 
 # Social Links
   youtube: '#'
   pinterest: '#'
-  facebook: 'https://www.facebook.com/kazrogplugins'
-  twitter: '#'
+  facebook: 'https://www.linkedin.com/in/kazrog/'
+  twitter: 'https://twitter.com/kazrog?lang=en'
   google-plus: '#'
   vimeo: '#'
 
@@ -471,7 +471,7 @@ pricing-description: Help support Jackal and Hyde through Patreon. The Jackal an
 plan-personal-price: $5
 plan-personal-offer-1-title: V.I.P. Music Aficianado
 plan-personal-offer-1-info: Access to pre-releases of Jackal and Hyde music, blog posts, community discussions, behind the scenes photos, one bandcamp code per month and one autographed Jackal and Hyde t-shirt after six months of subscription.
-plan-personal-offer-2-title: 100 Support Tickets
+plan-personal-offer-2-title: Offer Title 2
 plan-personal-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
 plan-personal-url: '#'
 
