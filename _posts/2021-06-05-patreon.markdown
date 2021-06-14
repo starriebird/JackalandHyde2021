@@ -3,7 +3,7 @@ layout: post
 title: "Patreon"
 tagline: Community
 date: 2021-06-04 13:23
-categories: [Storyline]
+categories: [Community]
 tags: [Music, Education, Tips, Community]
 image: patreon.jpg
 ---

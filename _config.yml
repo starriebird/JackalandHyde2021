@@ -174,7 +174,7 @@ features:
 ############  Portfolio  ############
 #####################################
 portfolio-title: Buy Music
-portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
+portfolio-description: Purchase high quality downloads for Jackal and Hyde's music on Bandcamp.
 
 #
 # Portfolio Grid
@@ -262,7 +262,7 @@ core-features-left:
 # Feature
 - name: Bandcamp
   description: Buy Jackal and Hyde Music.
-  icon: fab fa-bandcamp
+  icon: fi flaticon-bandcamp
   url: https://jackalandhyde.bandcamp.com
 
 # Feature
@@ -392,7 +392,7 @@ testimonials:
 ############# Our Blog ##############
 #####################################
 blog-title: News
-blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+blog-description: Stay up-to-date with the latest news about releases, live shows and Patreon.
 
 
 #####################################
