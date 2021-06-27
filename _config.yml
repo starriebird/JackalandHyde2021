@@ -83,6 +83,7 @@ email: starriew@gmail.com
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
 banner-link: https://www.patreon.com/jackalandhyde
+banner-link2: https://jackalandhyde.bandcamp.com
 
 ####################################
 ######  Global Social Links   ######
@@ -330,7 +331,7 @@ testimonials:
   url-text: Zardonic.net
   avatar: avatar-01.jpg
   cite: "Beautifully well crafted electro. Dark like no other in the electronic scene today."
-  logo-img:
+  logo-img: videohive.png
 
 # Client
 - name: DJ Qbert
@@ -338,7 +339,7 @@ testimonials:
   url-text: DJ Qbert Facebook
   avatar: avatar-02.jpg
   cite: "Love Jackal and Hyde! I played his new track on our Turntable TV Livestream and a guy jumped up in front of the camera and tore it up popping and locking! Everyone went haywire! Jackal & Hyde is the best!"
-  logo-img:
+  logo-img: videohive.png
 
 # Client
 - name: DJ Icey
@@ -441,7 +442,7 @@ team:
   pinterest: '#'
   facebook: 'https://www.facebook.com/SHADYTEEZ'
   twitter: '#'
-  google-plus: '#'
+  instagram: 'https://www.instagram.com/shadygroupinc/'
   vimeo: '#'
 
 # Team Member
@@ -450,7 +451,7 @@ team:
   avatar: kazrog.jpg
 
 # Social Links
-  youtube: '#'
+  youtube: 'https://www.youtube.com/user/Recabinet'
   pinterest: '#'
   facebook: 'https://www.linkedin.com/in/kazrog/'
   twitter: 'https://twitter.com/kazrog?lang=en'
@@ -468,39 +469,39 @@ pricing-description: Help support Jackal and Hyde through Patreon. The Jackal an
 #
 # Plan Personal
 #
-plan-personal-price: $5
-plan-personal-offer-1-title: V.I.P. Music Aficianado
+plan-personal-price: $5.00
+plan-personal-offer-1-title: Music Aficianado
 plan-personal-offer-1-info: Access to pre-releases of Jackal and Hyde music, blog posts, community discussions, behind the scenes photos, one bandcamp code per month and one autographed Jackal and Hyde t-shirt after six months of subscription.
-plan-personal-offer-2-title: Offer Title 2
-plan-personal-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-personal-url: '#'
+plan-personal-offer-2-title:
+plan-personal-offer-2-info:
+plan-personal-url: 'https://www.patreon.com/join/jackalandhyde/signup?ru=%2Fjoin%2Fjackalandhyde%2Fcheckout%3Frid%3D6969700%26'
 
 #
 # Plan Business
 #
-plan-business-price: $499
-plan-business-offer-1-title: All the the benefits of V.I.P Music Aficiando tier plus
-plan-business-offer-1-info: access to all of production blog posts that contain expert production knowledge and tutorials. Perfect for all levels of music production. Patron-only newsletter One digital downloads per month - Jackal and Hyde Bandcamp codePatron-only Q&As Access to drafts and works-in-progress Complete post archive - News and Music Production Exclusive content Live chat 15% off all Bandcamp tracks Private community Work-in-progress updates (digital)
-plan-business-offer-2-title: 1000 Support Tickets
-plan-business-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-business-url: '#'
+plan-business-price: $9.00
+plan-business-offer-1-title: All the the benefits of Music Aficiando
+plan-business-offer-1-info: Access to pre-releases of Jackal and Hyde music, blog posts, community discussions, behind the scenes photos, one bandcamp code per month and one autographed Jackal and Hyde t-shirt after six months of subscription.
+plan-business-offer-2-title: PLUS
+plan-business-offer-2-info: access to all of production blog posts that contain expert production knowledge and tutorials. Perfect for all levels of music production. Patron-only newsletter One digital downloads per month - Jackal and Hyde Bandcamp code. Patron-only Q&As Access to drafts and works-in-progress Complete post archive - News and Music Production Exclusive content Live chat 15% off all Bandcamp tracks Private community Work-in-progress updates (digital)
+plan-business-url: 'https://www.patreon.com/join/jackalandhyde/signup?ru=%2Fjoin%2Fjackalandhyde%2Fcheckout%3Frid%3D6969701%26'
 
 #
 # Plan Ultimate
 #
-plan-ultimate-price: $999
-plan-ultimate-offer-1-title: 10 PSD Pack
-plan-ultimate-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-ultimate-offer-2-title: Support Unlimited
+plan-ultimate-price: $20.00
+plan-ultimate-offer-1-title: All the the benefits of Music Aficiando
+plan-ultimate-offer-1-info: Access to pre-releases of Jackal and Hyde music, blog posts, community discussions, behind the scenes photos, one bandcamp code per month and one autographed Jackal and Hyde t-shirt after six months of subscription.
+plan-ultimate-offer-2-title: Plus Music Community All Access
 plan-ultimate-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-ultimate-url: '#'
+plan-ultimate-url: 'https://www.patreon.com/join/jackalandhyde/signup?ru=%2Fjoin%2Fjackalandhyde%2Fcheckout%3Frid%3D6969702%26'
 
 
 #####################################
 ############   Contact   ############
 #####################################
 contact-title: Contact
-contact-description: Have a question about something or just want to say hello? Send an email through the form below.
+contact-description: Interested in booking Jackal and Hyde for a live show? Have a question about something or just want to say hello? Send an email through the form below or contact <a href"mailto://info@jackalandhydemusic.com">info@jackalandhydemusic.com</a>.
 
 
 #####################################

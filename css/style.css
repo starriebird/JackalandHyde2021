@@ -209,7 +209,7 @@ table {
 }
 
 .text-focus {
-  color: #be130c;
+  color: #fff;
 }
 
 .parent {
@@ -2769,8 +2769,8 @@ ul.tag-cloud-box li a:hover {
   display: inline-block;
   width: auto;
   max-width: 100%;
-  color: #be130c;
-  border: 2px solid #be130c;
+  color: #fff;
+  border: 2px solid #fff;
   padding: 0.8em 2em;
   cursor: pointer;
   font-size: 1rem;
