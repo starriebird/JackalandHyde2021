@@ -18,7 +18,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md"]
 baseurl:
 
 # the base hostname & protocol for your site
-url: "http://localhost:3000"
+url: "https://jackalandhydemusic.com"
 
 ####################################
 ######   Optional Features    ######
@@ -55,7 +55,7 @@ title: Jackal and Hyde Music
 # Website language
 lang: en-US
 # Header Title
-header-title: <strong>Cogito Ergo Sum</strong>
+header-title: <strong>Electromagnetic</strong>
 # Header Tagline
 header-tagline: New Single
 
@@ -66,12 +66,12 @@ header-tagline: New Single
 # Focus Buttons
 header-focus-button:
   title: Buy Now
-  url: https://jackalandhyde.bandcamp.com/track/cogito-ergo-sum
+  url: https://jackalandhyde.bandcamp.com/track/electromagnetic
 
 # Secondary Buttons
 header-secondary-button:
   title: Listen
-  url: https://jackalandhyde.bandcamp.com/track/cogito-ergo-sum
+  url: https://jackalandhyde.bandcamp.com/track/electromagnetic
 
 #
 # This is your email adress, contact from send here all emails from contact section
@@ -104,9 +104,9 @@ vimeo: '#'
 #
 about-widget:
   author-avatar: avatar-09.jpg
-  author-name: Jackal and Hyde
-  author-tagline: Blog Author
-  author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
+  author-name: Jackal and Hyde News
+  author-tagline:
+  author-info: Keeping you up-to-date on the latest Jackal and Hyde news.
   author-social-links:
     youtube: '#'
     pinterest: '#'
@@ -263,7 +263,7 @@ core-features-left:
 # Feature
 - name: Bandcamp
   description: Buy Jackal and Hyde Music.
-  icon: fi flaticon-bandcamp
+  icon: fab fa-bandcamp
   url: https://jackalandhyde.bandcamp.com
 
 # Feature
