@@ -22,15 +22,18 @@ Scott Weiser: I began playing piano at age seven and switched to synthesizer and
 
 
 
-It's a fact that a band like Jackal & Hyde (that you created) influenced at least two decades of artists. I can easily argue Volsoc, Code Rising, Anthony Nuzzo, Ghosts In The Machine, Analog To Future, Exzakt and many more have been influenced by your sound. But I'm sure you've been influenced the same way when you were a kid. Tell me more about your musical background.
+Chris Nexus 6: It's a fact that a band like Jackal & Hyde (that you created) influenced at least two decades of artists. I can easily argue Volsoc, Code Rising, Anthony Nuzzo, Ghosts In The Machine, Analog To Future, Exzakt and many more have been influenced by your sound. But I'm sure you've been influenced the same way when you were a kid. Tell me more about your musical background.
 
-
+<blockquote cite="http://gleesik.ro">
+  Other influences as a child were all of Vince Clarks musical endeavors like Depeche Mode, Erasure and Yazz, and groups like Vangelis, Afrika Bambaataa and of course <strong>Kraftwerk</strong>
+  <small>Scott Weiser</small>
+</blockquote>
 
 My main Electronic musical influence as a teenager was first and foremost Front 242, they played a huge part in the way my mind works musically; especially in my approach to electronic song arrangement, sample manipulation and sequencing. When I was seventeen, I had a fake ID and would fenagle my way into a local West Palm Beach, FL underground club called Respectable Street Cafe. It was there that its notorious DJs Danny Bled and Kris Jacobi introduced my ears to Front 242 songs "Master Hit", "Head Hunter" and "Welcome to Paradise", and to be honest, my mind was blown. Not just blown because I thought the music was good, but because I had no idea how they were making the sounds they were making as most of it was hardcore sample manipulation. I had been around piano and synthesizers for years and was familiar with those kinds of sounds, but I never had a sampler as a kid, so knew nothing about sample manipulation (which Front 242 were clearly masters at). From then on, I was on a mission to figure out what they were doing and how they were doing it, and it’s safe to say that the aforementioned songs expanded my mind so much, that it was a life changing event for me as a young producer and musician, and took my music creativity into paths I would have never gone into otherwise. Other influences as a child were all of Vince Clarks musical endeavors like Depeche Mode, Erasure and Yazz, and groups like Vangelis, Afrika Bambaataa and of course Kraftwerk.
 
 
 
-​So should we consider that the industrial sound you developed under the Jackal & Hyde project is due to Front 242?
+​Chris Nexus 6: So should we consider that the industrial sound you developed under the Jackal & Hyde project is due to Front 242?
 
 
 
@@ -38,7 +41,7 @@ Unequivocally!
 
 
 
-Who are your masters in Electro music? Who are your masters in music in general? Masters who taught you?
+Chris Nexus 6: Who are your masters in Electro music? Who are your masters in music in general? Masters who taught you?
 
 
 
@@ -50,7 +53,7 @@ My engineering teacher and master tonmeister was a producer named Tom Dowd. He h
 
 
 
-Priceless for sure! Shame about his passing. So if you had to select one song from repertory that is the most representative of your sound, which one would it be and why?
+Chris Nexus 6: Priceless for sure! Shame about his passing. So if you had to select one song from repertory that is the most representative of your sound, which one would it be and why?
 
 
 
@@ -58,7 +61,7 @@ Probably Jackal and Hyde’s Darkstar. The reason being is it shows the perfect 
 
 
 
-​Would you say "Go Bang" is your harder stuff as Jackal & Hyde? How many times did it get repressed?
+​Chris Nexus 6: Would you say "Go Bang" is your harder stuff as Jackal & Hyde? How many times did it get repressed?
 
 
 
@@ -66,7 +69,7 @@ I wouldn’t say the Go Bang Remix was our hardest stuff no, it was just another
 
 
 
-That is amazing. What led you to getting J&H started then? How did you meet with Todd Walker aka Hyde, back in the days?
+Chris Nexus 6: That is amazing. What led you to getting J&H started then? How did you meet with Todd Walker aka Hyde, back in the days?
 
 
 
@@ -74,15 +77,15 @@ The truth is, I wanted to make a harder grittier form of Electro music, and my b
 
 
 
-Tell me more about "Bad Robot" coming out soon on German Dominance Electricity? Is it a tribute to J.J Abrams ? What are your forthcoming musical projects? I heard rumors about a possible J&H album. Is that true? Any new releases in the pipeline?
+Chris Nexus 6: Tell me more about "Bad Robot" coming out soon on German Dominance Electricity? Is it a tribute to J.J Abrams ? What are your forthcoming musical projects? I heard rumors about a possible J&H album. Is that true? Any new releases in the pipeline?
 
 
 
-Jackal and Hyde is back full force and will be releasing either an original song or remix at least once a month from this point forward throughout 2016. In addition to the Electro slammer Bad Robot, there are four new original songs in the making right now and Jackal and Hyde is currently finishing remixes for Omar Santana, Otto Von Schirach, Keith Mackenzie, DJ Fixx, and possibly a Rabbit in the Moon remix of Deeper done in our signature Electro-Core fashion. But that one is still YTBD. I am also co-producing Future House/Electro House with an up and coming producer/DJ called "Mojolefay" here in Charlotte, NC where my studio is located now. A third side project called "Titans and Giants" is in the works with my long time friend and producer extraordinaire Evan Gamble Lewis, so be on the lookout for that as well. This is going to be a full year of killer releases and I’m happy to announce that Bad Robot will be released on actual Vinyl 12” on Dominance Electricity as well as obviously digital download.
+Jackal and Hyde is back full force and will be releasing either an original song or remix at least once a month from this point forward throughout 2016. In addition to the Electro slammer Bad Robot, there are four new original songs in the making right now and Jackal and Hyde is currently finishing remixes for Omar Santana, Otto Von Schirach, Keith Mackenzie, DJ Fixx, and possibly a Rabbit in the Moon remix of Deeper done in our signature Electro-Core fashion. But that one is still YTBD. A third side project called "Titans and Giants" is in the works with my long time friend and producer extraordinaire Evan Gamble Lewis, so be on the lookout for that as well. This is going to be a full year of killer releases and I’m happy to announce that Bad Robot will be released on actual Vinyl 12” on Dominance Electricity as well as obviously digital download.
 
 
 
-We can’t wait for this exciting year!!! So what’s the secret to creating a banging Electro Breaks track? What is your general approach to getting a song started?      
+Chris Nexus 6: We can’t wait for this exciting year!!! So what’s the secret to creating a banging Electro Breaks track? What is your general approach to getting a song started?      
 
 
 
@@ -94,7 +97,7 @@ General approach, hmm. Every time I start a song it’s different. It may be a l
 
 
 
-Speaking of making a song, how long approximately do you spend in the studio to get a track 100% done? Is the creation process something quite instinctive for you or is it something that needs hours and hours of pain?
+Chris Nexus 6: Speaking of making a song, how long approximately do you spend in the studio to get a track 100% done? Is the creation process something quite instinctive for you or is it something that needs hours and hours of pain?
 
 
 
@@ -106,7 +109,7 @@ Regarding the “pain” you ask about (assuming you mean frustrating "pain in t
 
 
 
-Let's talk about all this new hardware being released. Are you impressed by any of the recent releases by Korg or Roland's AIRA series for example?
+ Chris Nexus 6: Let's talk about all this new hardware being released. Are you impressed by any of the recent releases by Korg or Roland's AIRA series for example?
 
 
 
@@ -130,7 +133,7 @@ Scenario #2: You own Ableton Live, you go to Goldbaby and buy say… the Super A
 
 
 
-Couldn't have asked for more honest advice! So what about vinyl making a resurgence, are you seeing it?
+Chris Nexus 6: Couldn't have asked for more honest advice! So what about vinyl making a resurgence, are you seeing it?
 
 
 
@@ -138,7 +141,7 @@ Yea I’m seeing it and I think it would be killer. Humans like tangible things 
 
 
 
-A million thanks Scott for this interview. We wish you the best for 2016 with the return of Jackal and Hyde on wax! Keep up the amazing work.
+Chris Nexus 6: A million thanks Scott for this interview. We wish you the best for 2016 with the return of Jackal and Hyde on wax! Keep up the amazing work.
 
 
 <blockquote cite="http://gleesik.ro">
