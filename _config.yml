@@ -88,12 +88,9 @@ banner-link2: https://jackalandhyde.bandcamp.com
 ####################################
 ######  Global Social Links   ######
 ####################################
-youtube: '#'
-pinterest: '#'
+youtube: 'https://www.youtube.com/channel/UC3ixZnMnCb_lMJukcDDQFiQ'
 facebook: 'https://www.facebook.com/jackalandhyde/'
-twitter: '#'
 instagram: 'https://www.instagram.com/jackalandhydemusic/'
-vimeo: '#'
 
 #########################
 ######   Widgets   ######
@@ -290,10 +287,10 @@ core-features-left:
 core-features-right:
 
 # Feature
-- name: Bands In Town
-  description: Follow live performances.
+- name: https://www.youtube.com/channel/UC3ixZnMnCb_lMJukcDDQFiQ
+  description: Listen to music.
   icon: fi flaticon-linkedin
-  url: https://www.bandsintown.com/a/15379169-jackal-and-hyde
+  url: https://www.youtube.com/channel/UC3ixZnMnCb_lMJukcDDQFiQ
 
 # Feature
 - name: Mailing List
@@ -411,6 +408,7 @@ team:
 - name: Drone
   tagline: Artist
   avatar: drone.jpg
+  url: https://droneart.etsy.com
 
   # Social Links
   youtube: '#'
@@ -418,6 +416,7 @@ team:
   facebook: 'https://www.facebook.com/dronefury'
   twitter: '#'
   vimeo: '#'
+
 
 # Team Member
 - name: Goldbaby
@@ -437,6 +436,7 @@ team:
 - name: Shady Teez
   tagline: Fashionista
   avatar: shadyteez.jpg
+  url: https://www.shadyteez.com/
 
   # Social Links
   youtube: '#'
@@ -446,10 +446,12 @@ team:
   instagram: 'https://www.instagram.com/shadygroupinc/'
   vimeo: '#'
 
+
 # Team Member
 - name: Kazrog
   tagline: Audio Plug-ins
   avatar: kazrog.jpg
+  url: https://kazrog.com/
 
 # Social Links
   youtube: 'https://www.youtube.com/user/Recabinet'
