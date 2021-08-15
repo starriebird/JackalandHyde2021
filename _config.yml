@@ -423,13 +423,14 @@ team:
 - name: Goldbaby
   tagline: Audio Mastermind
   avatar: goldbaby.jpg
+  url: https://www.goldbaby.co.nz/
 
   # Social Links
   youtube: '#'
-  pinterest: '#'
+  website: 'https://www.goldbaby.co.nz/'
   facebook: 'https://www.facebook.com/goldbabysamples'
   twitter: '#'
-  google-plus: '#'
+  instagram: '#'
   vimeo: '#'
 
 # Team Member
