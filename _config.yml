@@ -287,7 +287,7 @@ core-features-left:
 core-features-right:
 
 # Feature
-- name: https://www.youtube.com/channel/UC3ixZnMnCb_lMJukcDDQFiQ
+- name: YouTube
   description: Listen to music.
   icon: fi flaticon-linkedin
   url: https://www.youtube.com/channel/UC3ixZnMnCb_lMJukcDDQFiQ
@@ -466,38 +466,50 @@ team:
 #####################################
 ########## Pricing Tables ###########
 #####################################
-pricing-title: Patreon Community
-pricing-description: Help support Jackal and Hyde through Patreon. The Jackal and Hyde Patreon community gives fans, fellow producers and music students a place to connect with both each other and Scott Weiser.
+pricing-title: Services
+pricing-description: Scott Weiser is available for studio work offering a variety of services.
 
 #
 # Plan Personal
 #
-plan-personal-price: $5.00
-plan-personal-offer-1-title: Music Aficianado
-plan-personal-offer-1-info: Access to pre-releases of Jackal and Hyde music, blog posts, community discussions, behind the scenes photos, one bandcamp code per month and one autographed Jackal and Hyde t-shirt after six months of subscription.
+plan-personal-price: $50.00
+plan-personal-offer-1-title:
+plan-personal-offer-1-info:
 plan-personal-offer-2-title:
 plan-personal-offer-2-info:
-plan-personal-url: 'https://www.patreon.com/join/jackalandhyde/signup?ru=%2Fjoin%2Fjackalandhyde%2Fcheckout%3Frid%3D6969700%26'
+plan-personal-url: 'mailto://info@jackalandhydemusic.com'
 
 #
 # Plan Business
 #
-plan-business-price: $9.00
-plan-business-offer-1-title: All the the benefits of Music Aficiando
-plan-business-offer-1-info: Access to pre-releases of Jackal and Hyde music, blog posts, community discussions, behind the scenes photos, one bandcamp code per month and one autographed Jackal and Hyde t-shirt after six months of subscription.
-plan-business-offer-2-title: PLUS
-plan-business-offer-2-info: access to all of production blog posts that contain expert production knowledge and tutorials. Perfect for all levels of music production. Patron-only newsletter One digital downloads per month - Jackal and Hyde Bandcamp code. Patron-only Q&As Access to drafts and works-in-progress Complete post archive - News and Music Production Exclusive content Live chat 15% off all Bandcamp tracks Private community Work-in-progress updates (digital)
+plan-business-price: $750.00
+plan-business-offer-1-title:
+plan-business-offer-1-info:
+plan-business-offer-2-title:
+plan-business-offer-2-info:
 plan-business-url: 'https://www.patreon.com/join/jackalandhyde/signup?ru=%2Fjoin%2Fjackalandhyde%2Fcheckout%3Frid%3D6969701%26'
 
 #
 # Plan Ultimate
 #
-plan-ultimate-price: $20.00
-plan-ultimate-offer-1-title: All the the benefits of Music Aficiando
-plan-ultimate-offer-1-info: Access to pre-releases of Jackal and Hyde music, blog posts, community discussions, behind the scenes photos, one bandcamp code per month and one autographed Jackal and Hyde t-shirt after six months of subscription.
-plan-ultimate-offer-2-title: Plus Music Community All Access
-plan-ultimate-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
+plan-ultimate-price: $1500.00
+plan-ultimate-offer-1-title:
+plan-ultimate-offer-1-info: my remix of your song mixed and mastered $1,500 ($1,500 minimum, prices on remixes are project dependent
+plan-ultimate-offer-2-title:
+plan-ultimate-offer-2-info:
 plan-ultimate-url: 'https://www.patreon.com/join/jackalandhyde/signup?ru=%2Fjoin%2Fjackalandhyde%2Fcheckout%3Frid%3D6969702%26'
+
+
+#
+# Plan Ultimate
+#
+plan-production-price: $2500.00
+plan-production-offer-1-title:
+plan-production-offer-1-info: You send me your song with every single track stemmed out and I produce it to professional quality and and bring the song up to its maximum potential + mix it down and deliver it back to you mastered.
+plan-production-offer-2-title:
+plan-production-offer-2-info:
+plan-production-url: 'https://www.patreon.com/join/jackalandhyde/signup?ru=%2Fjoin%2Fjackalandhyde%2Fcheckout%3Frid%3D6969702%26'
+
 
 
 #####################################
