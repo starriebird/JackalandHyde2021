@@ -260,13 +260,13 @@ core-features-left:
 # Feature
 - name: Bandcamp
   description: Buy Jackal and Hyde Music.
-  icon: fab fa-bandcamp
+  icon: fi flaticon-instagram
   url: https://jackalandhyde.bandcamp.com
 
 # Feature
 - name: Discogs
   description: View the discography.
-  icon: fi flaticon-discogs
+  icon: fi flaticon-instagram
   url: https://www.discogs.com/artist/35393-Scott-Weiser?filter_anv=0&type=Credits
 
 # Feature
@@ -289,25 +289,25 @@ core-features-right:
 # Feature
 - name: YouTube
   description: Listen to music.
-  icon: fi flaticon-linkedin
+  icon: fi flaticon-youtube
   url: https://www.youtube.com/channel/UC3ixZnMnCb_lMJukcDDQFiQ
 
 # Feature
 - name: Mailing List
   description: Sign up for the Jackal and Hyde email list.
-  icon: pe-7s-monitor
+  icon: fi flaticon-email
   url: mailto:info@jackalandhydemusic.com
 
 # Feature
 - name: Spotify
   description: Stream Jackal and Hyde Music.
-  icon: fi flaticon-spotify
+  icon: fi flaticon-music
   url: https://open.spotify.com/artist/4a3Z4srAHtEhr1aEdB1SAi
 
 # Feature
 - name: Beatport
   description: Purchase Jackal and Hyde music on Beatport.
-  icon: pe-7s-camera
+  icon: fi flaticon-music
   url:
 
 
@@ -426,7 +426,6 @@ team:
 
   # Social Links
   youtube: '#'
-  website: 'https://www.goldbaby.co.nz/'
   facebook: 'https://www.facebook.com/goldbabysamples'
   twitter: '#'
   instagram: '#'
@@ -456,7 +455,7 @@ team:
 # Social Links
   youtube: 'https://www.youtube.com/user/Recabinet'
   pinterest: '#'
-  facebook: 'https://www.linkedin.com/in/kazrog/'
+  facebook: 'https://www.facebook.com/kazrogplugins'
   twitter: 'https://twitter.com/kazrog?lang=en'
   instagram: 'https://www.instagram.com/kazrog/'
   vimeo: '#'
@@ -467,7 +466,7 @@ team:
 ########## Pricing Tables ###########
 #####################################
 pricing-title: Services
-pricing-description: Scott Weiser is available for studio work offering a variety of services.
+pricing-description: Scott Weiser is available for studio work offering a variety of services. Email <a href = "mailto:info@jackalandhydemusic.com">info@jackalandhydemusic.com</a> to discuss your project.
 
 #
 # Plan Personal
@@ -492,11 +491,11 @@ plan-business-url: mailto:info@jackalandhydemusic.com
 #
 # Plan Ultimate
 #
-plan-ultimate-price: $1500.00
-plan-ultimate-offer-1-title:
-plan-ultimate-offer-1-info: my remix of your song mixed and mastered $1,500 ($1,500 minimum, prices on remixes are project dependent
-plan-ultimate-offer-2-title:
-plan-ultimate-offer-2-info:
+plan-ultimate-price: From $1500.00
+plan-ultimate-offer-1-title: Remixed
+plan-ultimate-offer-1-info: My remix of your song mixed
+plan-ultimate-offer-2-title: Mixed down and mastered.
+plan-ultimate-offer-2-info: Mixing and mastering included ($1,500 minimum, prices on remixes are project dependent)
 plan-ultimate-url: mailto:info@jackalandhydemusic.com
 
 
@@ -504,10 +503,10 @@ plan-ultimate-url: mailto:info@jackalandhydemusic.com
 # Plan Ultimate
 #
 plan-production-price: $2500.00
-plan-production-offer-1-title:
-plan-production-offer-1-info: You send me your song with every single track stemmed out and I produce it to professional quality and and bring the song up to its maximum potential + mix it down and deliver it back to you mastered.
-plan-production-offer-2-title:
-plan-production-offer-2-info:
+plan-production-offer-1-title: Produced
+plan-production-offer-1-info: You send me your song with every single track stemmed out and I produce it to professional quality and and bring the song up to its maximum potential.
+plan-production-offer-2-title: Mixed and mastered.
+plan-production-offer-2-info: Mix it down and deliver it back to you mastered.
 plan-production-url: mailto:info@jackalandhydemusic.com
 
 
@@ -516,7 +515,7 @@ plan-production-url: mailto:info@jackalandhydemusic.com
 ############   Contact   ############
 #####################################
 contact-title: Contact
-contact-description: Interested in booking Jackal and Hyde for a live show? Have a question about something or just want to say hello? Send an email through the form below or contact <a href"mailto://info@jackalandhydemusic.com">info@jackalandhydemusic.com</a>.
+contact-description: Interested in booking Jackal and Hyde for a live show? Have a question about something or just want to say hello? Send an email through the form below or contact <a href"mailto:info@jackalandhydemusic.com">info@jackalandhydemusic.com</a>.
 
 
 #####################################
