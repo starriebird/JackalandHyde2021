@@ -181,6 +181,12 @@ portfolio-categories: [Jackal and Hyde, Evan Gamble Lewis, Omar Santana, Code Ri
 portfolio:
 
 # Portfolio Item
+- title: <span class="thin">Electromagnetic E.P.</span>
+  categories: [Jackal and Hyde]
+  image: img-05.jpg
+  url: 'https://jackalandhyde.bandcamp.com/album/electromagnetic-e-p'
+
+# Portfolio Item
 - title: <span class="thin">COGITO ERGO SUM</span>
   categories: [Jackal and Hyde]
   image: img-01.png
@@ -197,12 +203,6 @@ portfolio:
   categories: [Jackal and Hyde, Omar Santana, Code Rising, Genitorturers]
   image: img-04.jpg
   url: 'https://jackalandhyde.bandcamp.com/album/anywhere-in-the-galaxy-e-p-omar-santana-code-rising-genitorturers'
-
-# Portfolio Item
-- title: <span class="thin">Electromagnetic E.P.</span>
-  categories: [Jackal and Hyde]
-  image: img-05.jpg
-  url: 'https://jackalandhyde.bandcamp.com/album/electromagnetic-e-p'
 
 # Portfolio Item
 - title: <span class="thin">Super Meng</span>
