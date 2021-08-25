@@ -222,11 +222,10 @@ portfolio:
   image: img-03.jpg
   url: 'https://jackalandhyde.bandcamp.com/track/see-europa'
 
-# Portfolio Item
-- title: You're Like a Drug E.P. (Jackal and Hyde vs. Evan Gamble Lewis )
-  categories: [Jackal and Hyde, Evan Gamble Lewis]
-  image: img-09.jpg
-  url: 'https://jackalandhyde.bandcamp.com/album/youre-like-a-drug-ep'
+- title: Newcleus - JAM ON IT (JACKAL AND HYDE'S ODE TO THE OLD SCHOOL REMIX)
+  categories: [Jackal and Hyde]
+  image: img-12.jpg
+  url: 'https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beatport.com%2Frelease%2Fjam-on-it-jackal-and-hydes-ode-to-the-old-school-remix%2F2553918%3Ffbclid%3DIwAR1Q27aL15OCimxPC3E-lw208LPTbDM7alW16ULPim6f8SLhbRexHq2AOkU&h=AT0Ps1jOllKXOQjJ40flpCHwo6lDQ6Uz1MDFdmA1N7j4HEOp2bWUnPsDAgj3_FsnaInahCydVWzK-eZfzG05LM504X3p8mUVD45KO8xyh0T6ikjKWPy2tD-YqndsrhLCGKEo72bi'
 
 # Portfolio Item
 - title: Candy Painted
@@ -247,10 +246,11 @@ portfolio:
   url: 'https://jackalandhyde.bandcamp.com/album/bad-robot'
 
 # Portfolio Item
-- title: Newcleus - JAM ON IT (JACKAL AND HYDE'S ODE TO THE OLD SCHOOL REMIX)
-  categories: [Jackal and Hyde]
-  image: img-12.jpg
-  url: 'https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.beatport.com%2Frelease%2Fjam-on-it-jackal-and-hydes-ode-to-the-old-school-remix%2F2553918%3Ffbclid%3DIwAR1Q27aL15OCimxPC3E-lw208LPTbDM7alW16ULPim6f8SLhbRexHq2AOkU&h=AT0Ps1jOllKXOQjJ40flpCHwo6lDQ6Uz1MDFdmA1N7j4HEOp2bWUnPsDAgj3_FsnaInahCydVWzK-eZfzG05LM504X3p8mUVD45KO8xyh0T6ikjKWPy2tD-YqndsrhLCGKEo72bi'
+- title: You're Like a Drug E.P. (Jackal and Hyde vs. Evan Gamble Lewis )
+  categories: [Jackal and Hyde, Evan Gamble Lewis]
+  image: img-09.jpg
+  url: 'https://jackalandhyde.bandcamp.com/album/youre-like-a-drug-ep'
+# Portfolio Item
 
 #####################################
 ##########  Core Features  ##########
