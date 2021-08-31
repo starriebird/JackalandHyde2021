@@ -471,26 +471,24 @@ team:
 #####################################
 ########## Pricing Tables ###########
 #####################################
-pricing-title: Services
+pricing-title: Studio Services
 pricing-description: Scott Weiser is available for studio work offering a variety of services. Email <a href = "mailto:info@jackalandhydemusic.com">info@jackalandhydemusic.com</a> to discuss your project.
 
 #
 # Plan Personal
 #
 plan-personal-price: $50.00
-plan-personal-offer-1-title:
-plan-personal-offer-1-info:
-plan-personal-offer-2-title:
-plan-personal-offer-2-info:
+plan-personal-offer-1-title: Package deals are available
+plan-personal-offer-1-info: Email for package rates
 plan-personal-url: mailto:info@jackalandhydemusic.com
 
 #
 # Plan Business
 #
 plan-business-price: $750.00
-plan-business-offer-1-title:
+plan-business-offer-1-title: Mastered at professional quality
 plan-business-offer-1-info:
-plan-business-offer-2-title:
+plan-business-offer-2-title: Stems included
 plan-business-offer-2-info:
 plan-business-url: mailto:info@jackalandhydemusic.com
 
@@ -510,9 +508,9 @@ plan-ultimate-url: mailto:info@jackalandhydemusic.com
 #
 plan-production-price: $2500.00
 plan-production-offer-1-title: Produced
-plan-production-offer-1-info: You send me your song with every single track stemmed out and I produce it to professional quality and and bring the song up to its maximum potential.
-plan-production-offer-2-title: Mixed and mastered.
-plan-production-offer-2-info: Mix it down and deliver it back to you mastered.
+plan-production-offer-1-info: You send me your song with every single track stemmed out and I produce it to professional quality and and bring the song up to its maximum potential
+plan-production-offer-2-title: Mixed and mastered
+plan-production-offer-2-info: Mix it down and deliver it back to you mastered
 plan-production-url: mailto:info@jackalandhydemusic.com
 
 
