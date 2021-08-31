@@ -272,7 +272,7 @@ core-features-left:
 # Feature
 - name: Discogs
   description: View the discography.
-  icon: fi flaticon-instagram
+  icon: pe-7s-album
   url: https://www.discogs.com/artist/35393-Scott-Weiser?filter_anv=0&type=Credits
 
 # Feature
