@@ -301,20 +301,20 @@ core-features-right:
 # Feature
 - name: Mailing List
   description: Sign up for the Jackal and Hyde email list.
-  icon: fi flaticon-email
+  icon: pe-7s-mail
   url: mailto:info@jackalandhydemusic.com
 
 # Feature
 - name: Spotify
   description: Stream Jackal and Hyde Music.
-  icon: fi flaticon-music
+  icon: pe-7s-musiclist
   url: https://open.spotify.com/artist/4a3Z4srAHtEhr1aEdB1SAi
 
 # Feature
 - name: Beatport
   description: Purchase Jackal and Hyde music on Beatport.
-  icon: fi flaticon-music
-  url:
+  icon: pe-7s-music
+  url: https://www.beatport.com/artist/jackal-and-hyde/235088
 
 
 #####################################
