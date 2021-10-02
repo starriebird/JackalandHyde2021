@@ -3854,6 +3854,10 @@ section.offer-section .button-cta {
  *  @package gleesik_layout
  *
  **/
+.about-section img {
+  margin-bottom: 50px;
+}
+
 /**
  *
  *  Features Section Style
