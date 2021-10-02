@@ -117,7 +117,7 @@ section.testimonials-section {
         position: relative;
         width: 30%;
         height: auto;
-        margin: 20px auto 0 auto;
+        margin: 0px auto 0 auto;
 
         // Resonsive Media
         @media (max-width: 767px) {
@@ -150,11 +150,11 @@ section.testimonials-section {
       	display: inline-block;
       	zoom: 1;
       	margin: 5px;
-      	padding: 5px 10px;
-      	font-size: 0.85rem;
+      	padding: 15px 20px;
+      	font-size: 2rem;
       	border-radius: 30px;
-      	background: $simple-gray;
-      	opacity: 0.5;
+      	background: #000;
+      	opacity: 1;
       }
 
       .owl-page {
