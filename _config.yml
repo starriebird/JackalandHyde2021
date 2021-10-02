@@ -485,7 +485,7 @@ plan-personal-url: mailto:info@jackalandhydemusic.com
 #
 # Plan Business
 #
-plan-business-price: $750.00
+plan-business-price: $500.00
 plan-business-offer-1-title: Mastered at professional quality
 plan-business-offer-1-info:
 plan-business-offer-2-title: Stems included
@@ -506,7 +506,7 @@ plan-ultimate-url: mailto:info@jackalandhydemusic.com
 #
 # Plan Ultimate
 #
-plan-production-price: $2500.00
+plan-production-price: From $2500.00
 plan-production-offer-1-title: Produced
 plan-production-offer-1-info: You send me your song with every single track stemmed out and I produce it to professional quality and and bring the song up to its maximum potential
 plan-production-offer-2-title: Mixed and mastered
