@@ -163,17 +163,17 @@ section.testimonials-section {
 
         span {
         	display: block;
-        	width: 30px;
+        	width: 60px;
         	height: 5px;
         	margin: 20px 4px 10px 4px;
         	border-radius: 3px;
-        	background: $simple-gray;
+        	background: $white;
         }
 
         &.active,
         &:hover {
           span {
-            background: $primary;
+            background: $black;
           }
         }
       }
