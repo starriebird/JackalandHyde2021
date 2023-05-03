@@ -51,7 +51,7 @@ jekyll-archives:
 #######################################################
 
 # This is your site title
-title: Jackal and Hyde Music
+title: Scott Weiser Music
 # Website language
 lang: en-US
 # Header Title
@@ -101,9 +101,9 @@ instagram: 'https://www.instagram.com/jackalandhydemusic/'
 #
 about-widget:
   author-avatar: jackalhyde_about_image.jpeg
-  author-name: Jackal and Hyde News
+  author-name: Scott Weiser News
   author-tagline:
-  author-info: Keeping you up-to-date on the latest Jackal and Hyde news.
+  author-info: Keeping you up-to-date on the latest news.
   author-social-links:
     youtube: '#'
     pinterest: '#'
@@ -137,8 +137,8 @@ mailchimp:
 #####################################
 #############   About   #############
 #####################################
-about-title: Jackal and Hyde - Dominance Electricity (Leipzig, Germany), Risen United (Los Angeles, USA)
-about-description: Scott Weiser, (AKA Jackal and Hyde) is responsible for some of the most head strong electrocore bass-bangers such as Dark Star, Go Bang, Beyond, This is the Sound of Underground and Bad Robot. Besides his original work, Jackal & Hyde's sound has been requested for multiple remix productions including Rabbit in the Moon, Kid Rock, Limp Bizkit, Gwen Stefani, Newcleus, Mindless Self Indulgence, Carl Finlow, Love & Rockets and Genitorturers among others. In 2020, he continues the mission to create the perfect blend of relentless intelligent club power along with futuristic darkness to make his brand of sci-fi-esque electro music called electrocore. <br /><br />Jackal and Hyde live shows are eclectic full frontal sonic assaults which appeal to a wide variety of fans from EDM club kids, ravers and break dancers, to goths, gravers and industrial heads alike. For the last decade he has played shows with a wide variety of groups from The Prodigy, Bassnectar and Stanton Warriors, to Rabbit in the Moon, Combichrist and Kraftwerk (Karl Bartos) at venues all across the United States and abroad. Always be prepared for an Earth shaking set from this master of tear out electro.
+about-title: Scott Weiser - Dominance Electricity (Leipzig, Germany), Risen United (Los Angeles, USA)
+about-description: Scott Weiser, is responsible for some of the most head strong electrocore bass-bangers such as Dark Star, Go Bang, Beyond, This is the Sound of Underground and Bad Robot. Besides his original work, Scott Weiser's sound has been requested for multiple remix productions including Rabbit in the Moon, Kid Rock, Limp Bizkit, Gwen Stefani, Newcleus, Mindless Self Indulgence, Carl Finlow, Love & Rockets and Genitorturers among others. In 2020, he continues the mission to create the perfect blend of relentless intelligent club power along with futuristic darkness to make his brand of sci-fi-esque electro music called electrocore. <br /><br />Scott Weiser's live shows are eclectic full frontal sonic assaults which appeal to a wide variety of fans from EDM club kids, ravers and break dancers, to goths, gravers and industrial heads alike. For the last decade he has played shows with a wide variety of groups from The Prodigy, Bassnectar and Stanton Warriors, to Rabbit in the Moon, Combichrist and Kraftwerk (Karl Bartos) at venues all across the United States and abroad. Always be prepared for an Earth shaking set from this master of tear out electro.
 
 
 #####################################
@@ -172,7 +172,7 @@ features:
 ############  Portfolio  ############
 #####################################
 portfolio-title: Buy Music
-portfolio-description: Purchase high quality downloads for Jackal and Hyde's music on Bandcamp.
+portfolio-description: Purchase high quality downloads for Scott Weiser's music on Bandcamp.
 
 #
 # Portfolio Grid
@@ -256,7 +256,7 @@ portfolio:
 ##########  Core Features  ##########
 #####################################
 core-title: Social Media
-core-description: Follow Jackal and Hyde on social media.
+core-description: Follow Scott Weiser on social media.
 
 #
 # Core Features Left
@@ -265,7 +265,7 @@ core-features-left:
 
 # Feature
 - name: Bandcamp
-  description: Buy Jackal and Hyde Music.
+  description: Buy Music.
   icon: fi flaticon-instagram
   url: https://jackalandhyde.bandcamp.com
 
@@ -283,9 +283,9 @@ core-features-left:
 
 # Feature
 - name: Facebook
-  description: Follow Jackal and Hyde on Facebook.
+  description: Follow Scott Weiser on Facebook.
   icon: fi flaticon-facebook
-  url: https://www.facebook.com/jackalandhyde/?ref=br_rs
+  url: https://www.facebook.com/scottweiserofficial
 
 #
 # Core Features Right
@@ -300,13 +300,13 @@ core-features-right:
 
 # Feature
 - name: Mailing List
-  description: Sign up for the Jackal and Hyde email list.
+  description: Sign up for the email list.
   icon: pe-7s-mail
   url: mailto:info@jackalandhydemusic.com
 
 # Feature
 - name: Spotify
-  description: Stream Jackal and Hyde Music.
+  description: Stream Music.
   icon: pe-7s-musiclist
   url: https://open.spotify.com/artist/4a3Z4srAHtEhr1aEdB1SAi
 
@@ -519,13 +519,13 @@ plan-production-url: mailto:info@jackalandhydemusic.com
 ############   Contact   ############
 #####################################
 contact-title: Contact
-contact-description: Interested in booking Jackal and Hyde for a live show? Have a question about something or just want to say hello? Send an email through the form below or contact <a href"mailto:info@jackalandhydemusic.com">info@jackalandhydemusic.com</a>.
+contact-description: Interested in booking Scott Weiser for a live show? Have a question about something or just want to say hello? Send an email through the form below or contact <a href"mailto:info@jackalandhydemusic.com">info@jackalandhydemusic.com</a>.
 
 
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: Jackal and Hyde Music is brought to you by Jackal and Hyde and Equinox Multimedia
+footer-description: Jackal and Hyde Music is brought to you by Equinox Multimedia
 footer-copyright-text: Equinox Multimedia
 footer-copyright-url: http://www.equinoxmultimedia.com
 footer-copyright-year: 2021
