@@ -63,6 +63,9 @@ header.site-header {
       }
     }
 
+
+
+
     // Navigation Bar
     .navigation-bar {
 
@@ -152,7 +155,7 @@ header.site-header {
     position: absolute;
     width: 100%;
     height: 150px;
-    bottom: 0;
+    bottom: -9em;
     z-index: 3;
 
     .arrow-down {

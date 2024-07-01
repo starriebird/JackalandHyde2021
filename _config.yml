@@ -55,9 +55,9 @@ title: Scott Weiser Music
 # Website language
 lang: en-US
 # Header Title
-header-title: <strong>Electromagnetic</strong>
+header-title:
 # Header Tagline
-header-tagline: NEW SINGLE
+header-tagline:
 
 ####################################
 ######   CTA Header Buttons   ######
@@ -65,13 +65,13 @@ header-tagline: NEW SINGLE
 
 # Focus Buttons
 header-focus-button:
-  title: Buy Now
-  url: https://jackalandhyde.bandcamp.com/track/electromagnetic
+  title:
+  url:
 
 # Secondary Buttons
 header-secondary-button:
-  title: Listen
-  url: https://jackalandhyde.bandcamp.com/track/electromagnetic
+  title:
+  url:
 
 #
 # This is your email adress, contact from send here all emails from contact section
